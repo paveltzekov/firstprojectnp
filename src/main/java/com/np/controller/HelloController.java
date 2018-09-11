@@ -13,7 +13,7 @@ public class HelloController {
     @GetMapping("/hello-world")
     @ResponseBody
     public Greeting index() {
-        return new Greeting(1, "Hello");
+        return new Greeting(1, "Hello Boys");
     }
 
 }
