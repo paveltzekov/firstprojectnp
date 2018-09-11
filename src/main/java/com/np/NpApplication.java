@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NpApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(NpApplication.class, args);
     }
 
